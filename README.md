@@ -3,7 +3,7 @@ Clone do jogo Flappy Bird desenvolvido com linguagem LUA, utilizando a engine So
 
 ## 🌐 APK
 
-https://drive.google.com/file/d/1rYwAOzZW3yuexPtnwNKvrfJFRX15HTDk/view?usp=drive_link
+**Google Drive** - (https://github.com/juliaconrratt)
 
 ## 🛠️ Construído com
 
@@ -12,5 +12,5 @@ https://drive.google.com/file/d/1rYwAOzZW3yuexPtnwNKvrfJFRX15HTDk/view?usp=drive
 
 ## ✒️ Autor
 
-* **Júlia Conrratt** - [juliaconrratt](https://github.com/juliaconrratt)
-* **Behance** - [juliaconrratt](https://www.behance.net/juliaconrratt)
+* **Júlia Conrratt** - [Profile](https://github.com/juliaconrratt)
+* **Behance** - [Profile](https://www.behance.net/juliaconrratt)
