@@ -19,6 +19,6 @@ Flappy Bird game clone, developed using LUA language, at the Solar2D engine. Pro
 
 ## 📸 Imagens do projeto
 
-![1](flappybird_clone/Screenshots/01 - tela inicial.png)
-![2](flappybird_clone/Screenshots/02 -jogo.jpg)
+![1](https://github.com/juliaconrratt/flappybird_clone/blob/07bdb756580874d4afd3a1cd930d711bb4215763/flappybird_clone/Screenshots/01%20-%20tela%20inicial.png)
+![2](https://github.com/juliaconrratt/flappybird_clone/blob/07bdb756580874d4afd3a1cd930d711bb4215763/flappybird_clone/Screenshots/02%20-jogo.jpg)
 ![3](https://github.com/juliaconrratt/flappybird_clone/blob/e1f7b6b5bc7e0aeea0af2428493e4cfb2abf48b1/flappybird_clone/Screenshots/03%20-%20game%20over.jpg)
